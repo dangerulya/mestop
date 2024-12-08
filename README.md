@@ -16,4 +16,4 @@
 
 ## Посмотреть проект
 
-- [Просмотр на Github Pages](https://dangerulya.github.io/mesto-project/)
+- [Просмотр на Github Pages](https://dangerulya.github.io/mestop/)
